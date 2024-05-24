@@ -13,7 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 Git sur votre pc.
 Un ide (vscode, webstorm, sublimeText).
-
+De la motivation.
 ```
 
 ### Installation
